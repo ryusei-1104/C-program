@@ -2,11 +2,11 @@
 
 int main()
 {
-    float i;
+    int i;
     float ans = 1;
     float temp;
     //printf("input(0-7):\n");
-    scanf("%f",&i);
+    scanf("%d",&i);
     while(i > 0)
     {
         temp = 1;
